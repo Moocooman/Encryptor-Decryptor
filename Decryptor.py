@@ -1,3 +1,5 @@
+charSource = ' abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.,!?"()&-0123456789'
+
 ## Functions to convert from letters to numbers and reverse
 def getLetterIndex(let):
     try:
